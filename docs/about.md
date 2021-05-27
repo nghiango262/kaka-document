@@ -1,1 +1,4 @@
-# This is About page
+Authors
+-------
+	* Nghia Dep Trai VL
+	* Kinh Kha Bo Do VL
