@@ -1,7 +1,7 @@
 site_name: My Docs
 nav:
         - Home: index.md
-                - Example: trang_1.md
+        - Example: trang_1.md
         - About: about.md
 theme: readthedocs
 
