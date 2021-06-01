@@ -1,7 +1,8 @@
-site_name: My Docs
+site_name: Kaka's Docs
 nav:
         - Home: index.md
         - Example: trang_1.md
+        - AWS Notes: aws_notes.md 
         - About: about.md
 theme: readthedocs
 
